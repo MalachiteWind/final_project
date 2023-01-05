@@ -8,3 +8,6 @@ print(output)
 val = 10
 for i in range(val):
     print(i+1)
+
+# Task 3
+print()
